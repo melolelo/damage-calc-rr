@@ -1,3 +1,8 @@
+# This is a personal project
+
+Don't look at me i'm hideous
+no but seriously i just wanna try it lol pls dont judge me
+
 # Pokémon Damage Calculator
 
 ![Test Status](https://github.com/smogon/damage-calc/workflows/Tests/badge.svg)
